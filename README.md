@@ -8,7 +8,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
    *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, Denny Zhou*  [[pdf](https://arxiv.org/abs/2201.11903)] 2022.1
  
-2. **Self-Consistency Improves Chain of Thought Reasoning in Language Models.** 
+2. **Self-Consistency Improves Chain of Thought Reasoning in Language Models.**  
 
    *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou*  [[pdf](https://arxiv.org/abs/2203.11171)] 2022.3
    
