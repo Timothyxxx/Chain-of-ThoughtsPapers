@@ -27,3 +27,8 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 6. **Inferring Implicit Relations with Language Models.** 
 
    *Uri Katz, Mor Geva, Jonathan Berant*  [[pdf](https://arxiv.org/abs/2204.13778)] 2022.4   
+   
+7. **Large Language Models are Zero-Shot Reasoners.**
+  
+  *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa* [[pdf](https://arxiv.org/abs/2205.11916)] 2022.5
+
