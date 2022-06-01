@@ -36,3 +36,6 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
   
    *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa* [[pdf](https://arxiv.org/abs/2205.11916)] 2022.5
 
+9. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models.**
+  
+   *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet, Quoc Le, Ed Chi* [[pdf](https://arxiv.org/abs/2205.10625)] 2022.5
