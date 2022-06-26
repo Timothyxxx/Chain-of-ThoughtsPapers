@@ -43,3 +43,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 10. **On the Advance of Making Language Models Better Reasoners.**
 
     *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen* [[pdf](https://arxiv.org/abs/2206.02336)] 2022.6
+
+11. **Emergent Abilities of Large Language Models.**
+
+    *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus* [[pdf](https://arxiv.org/abs/2206.07682)] 2022.6
