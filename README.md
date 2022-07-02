@@ -47,3 +47,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 11. **Emergent Abilities of Large Language Models.**
 
     *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus* [[pdf](https://arxiv.org/abs/2206.07682)] 2022.6
+
+12. **Minerva: Solving Quantitative Reasoning Problems with Language Models.**
+
+    *Posted by Ethan Dyer and Guy Gur-Ari, Research Scientists, Google Research, Blueshift Team* [[blog](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)] 2022.6
