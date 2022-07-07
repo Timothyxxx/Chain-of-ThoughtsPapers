@@ -51,3 +51,8 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 12. **Minerva: Solving Quantitative Reasoning Problems with Language Models.**
 
     *Posted by Ethan Dyer and Guy Gur-Ari, Research Scientists, Google Research, Blueshift Team* [[blog](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)] 2022.6
+
+
+13. **Rationale-Augmented Ensembles in Language Models.**
+
+    *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou* [[pdf](https://arxiv.org/abs/2207.00747)] 2022.7
