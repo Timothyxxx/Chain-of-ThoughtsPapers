@@ -56,6 +56,10 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
     *Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang, Cong Liu, Ji-Rong Wen* [[pdf](https://arxiv.org/abs/2206.06315)] 2022.6
 
-14. **Rationale-Augmented Ensembles in Language Models.**
+14. *A Dataset and Benchmark for Automatically Answering and Generating Machine Learning Final Exams*
+
+    *Sarah Zhang, Reece Shuttleworth, Derek Austin, Yann Hicke, Leonard Tang, Sathwik Karnik, Darnell Granberry, Iddo Drori* [[pdf](https://arxiv.org/abs/2206.05442)] 2022.6
+    
+15. **Rationale-Augmented Ensembles in Language Models.**
 
     *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou* [[pdf](https://arxiv.org/abs/2207.00747)] 2022.7
