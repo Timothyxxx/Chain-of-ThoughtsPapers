@@ -63,3 +63,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 15. **Rationale-Augmented Ensembles in Language Models.**
 
     *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou* [[pdf](https://arxiv.org/abs/2207.00747)] 2022.7
+
+16. **Language Model Cascades.**
+
+    *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton* [[pdf](https://arxiv.org/abs/2207.10342)] 2022.7
