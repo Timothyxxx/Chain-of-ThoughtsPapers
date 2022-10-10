@@ -67,3 +67,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 16. **Language Model Cascades.**
 
     *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton* [[pdf](https://arxiv.org/abs/2207.10342)] 2022.7
+    
+17. **Automatic Chain of Thought Prompting in Large Language Models.**
+
+    *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola* [[pdf](https://arxiv.org/abs/2210.03493)] 2022.10
