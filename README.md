@@ -80,3 +80,8 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 19. **Binding Language Models in Symbolic Languages.**
 
     *Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* [[pdf](https://arxiv.org/abs/2210.02875)] 2022.10
+    
+
+20. **Ask Me Anything: A simple strategy for prompting language models.**
+
+    *Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré* [[pdf](https://arxiv.org/abs/2210.02441)], [[code](https://github.com/HazyResearch/ama_prompting)] 2022.10
