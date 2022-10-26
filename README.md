@@ -85,3 +85,11 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 20. **Ask Me Anything: A simple strategy for prompting language models.**
 
     *Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré* [[pdf](https://arxiv.org/abs/2210.02441)], [[code](https://github.com/HazyResearch/ama_prompting)] 2022.10
+
+21. **Language Models of Code are Few-Shot Commonsense Learners.**
+
+    *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig* [[pdf](https://arxiv.org/abs/2210.07128)], [[code](https://github.com/madaan/cocogen)] 2022.10
+    
+22. **Large Language Models Can Self-Improve.**
+
+    *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han* [[pdf](https://arxiv.org/abs/2210.11610)] 2022.10
