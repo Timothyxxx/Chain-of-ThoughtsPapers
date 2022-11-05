@@ -72,28 +72,32 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
     *Aman Madaan, Amir Yazdanbakhsh* [[pdf](https://arxiv.org/abs/2209.07686)] 2022.9
 
-18. **Language Models are Multilingual Chain-of-Thought Reasoners.**
+18. **Compositional Semantic Parsing with Large Language Models.**
+
+    *Andrew Drozdov, Nathanael Schärli, Ekin Akyürek, Nathan Scales, Xinying Song, Xinyun Chen, Olivier Bousquet, Denny Zhou* [[pdf](https://arxiv.org/abs/2209.15003)] 2022.9
+
+19. **Language Models are Multilingual Chain-of-Thought Reasoners.**
 
     *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei* [[pdf](https://arxiv.org/abs/2210.03057)] 2022.10
 
-19. **Automatic Chain of Thought Prompting in Large Language Models.**
+20. **Automatic Chain of Thought Prompting in Large Language Models.**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola* [[pdf](https://arxiv.org/abs/2210.03493)] 2022.10
 
 
-20. **Binding Language Models in Symbolic Languages.**
+21. **Binding Language Models in Symbolic Languages.**
 
     *Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* [[pdf](https://arxiv.org/abs/2210.02875)] 2022.10
     
 
-21. **Ask Me Anything: A simple strategy for prompting language models.**
+22. **Ask Me Anything: A simple strategy for prompting language models.**
 
     *Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré* [[pdf](https://arxiv.org/abs/2210.02441)], [[code](https://github.com/HazyResearch/ama_prompting)] 2022.10
 
-22. **Language Models of Code are Few-Shot Commonsense Learners.**
+23. **Language Models of Code are Few-Shot Commonsense Learners.**
 
     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig* [[pdf](https://arxiv.org/abs/2210.07128)], [[code](https://github.com/madaan/cocogen)] 2022.10
     
-23. **Large Language Models Can Self-Improve.**
+24. **Large Language Models Can Self-Improve.**
 
     *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han* [[pdf](https://arxiv.org/abs/2210.11610)] 2022.10
