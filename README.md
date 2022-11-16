@@ -80,35 +80,39 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
     *Andrew Drozdov, Nathanael Schärli, Ekin Akyürek, Nathan Scales, Xinying Song, Xinyun Chen, Olivier Bousquet, Denny Zhou* [[pdf](https://arxiv.org/abs/2209.15003)] 2022.9
 
-20. **Language Models are Multilingual Chain-of-Thought Reasoners.**
+20. **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning.**
+
+    *Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, Peter Clark, Ashwin Kalyan* [[pdf](https://arxiv.org/abs/2209.14610)] 2022.9
+    
+21. **Language Models are Multilingual Chain-of-Thought Reasoners.**
 
     *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei* [[pdf](https://arxiv.org/abs/2210.03057)] 2022.10
 
-21. **Automatic Chain of Thought Prompting in Large Language Models.**
+22. **Automatic Chain of Thought Prompting in Large Language Models.**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola* [[pdf](https://arxiv.org/abs/2210.03493)] 2022.10
 
 
-22. **Binding Language Models in Symbolic Languages.**
+23. **Binding Language Models in Symbolic Languages.**
 
     *Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* [[pdf](https://arxiv.org/abs/2210.02875)] 2022.10
     
-23. **ReAct: Synergizing Reasoning and Acting in Language Models.**
+24. **ReAct: Synergizing Reasoning and Acting in Language Models.**
 
     *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* [[pdf](https://arxiv.org/abs/2210.03629)] 2022.10
 
-24. **Ask Me Anything: A simple strategy for prompting language models.**
+25. **Ask Me Anything: A simple strategy for prompting language models.**
 
     *Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré* [[pdf](https://arxiv.org/abs/2210.02441)], [[code](https://github.com/HazyResearch/ama_prompting)] 2022.10
 
-25. **Language Models of Code are Few-Shot Commonsense Learners.**
+26. **Language Models of Code are Few-Shot Commonsense Learners.**
 
     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig* [[pdf](https://arxiv.org/abs/2210.07128)], [[code](https://github.com/madaan/cocogen)] 2022.10
     
-26. **Large Language Models Can Self-Improve.**
+27. **Large Language Models Can Self-Improve.**
 
     *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han* [[pdf](https://arxiv.org/abs/2210.11610)] 2022.10
     
-27. **Large Language Models are few(1)-shot Table Reasoners.**
+28. **Large Language Models are few(1)-shot Table Reasoners.**
 
     *Wenhu Chen* [[pdf](https://arxiv.org/abs/2210.06710)] 2022.10
