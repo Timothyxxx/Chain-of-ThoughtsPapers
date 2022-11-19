@@ -2,6 +2,10 @@
 ![](https://img.shields.io/github/last-commit/Timothyxxx/RetrivalLMPapers?color=green)
 A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models".
 
+## Framework
+https://github.com/HKUNLP/HumanPrompt
+[20+ methods, 100+ tasks, open-source, coming soon]
+
 ## Papers
 
 1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** 
