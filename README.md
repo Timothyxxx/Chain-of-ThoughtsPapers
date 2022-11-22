@@ -2,9 +2,6 @@
 ![](https://img.shields.io/github/last-commit/Timothyxxx/RetrivalLMPapers?color=green)
 A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models".
 
-## Framework
-https://github.com/HKUNLP/HumanPrompt
-[20+ methods, 100+ tasks, open-source, coming soon]
 
 ## Papers
 
@@ -120,3 +117,11 @@ https://github.com/HKUNLP/HumanPrompt
 28. **Large Language Models are few(1)-shot Table Reasoners.**
 
     *Wenhu Chen* [[pdf](https://arxiv.org/abs/2210.06710)] 2022.10
+
+29. **PAL: Program-aided Language Models.**
+
+    *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig* [[pdf](https://arxiv.org/abs/2211.10435)] 2022.11
+    
+30. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
+
+    *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen* [[pdf](https://wenhuchen.github.io/images/Program_of_Thoughts.pdf)] 2022.11
