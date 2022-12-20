@@ -133,3 +133,8 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 32. **Reasoning with Language Model Prompting: A Survey.**
 
     *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen* [[pdf](https://arxiv.org/abs/2212.09597)] 2022.12
+    
+33. **Large Language Models are reasoners with Self-Verification.**
+
+    *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao* [[pdf](https://arxiv.org/abs/2212.09561)] [[code](https://github.com/WENGSYX/Self-Verification)] 2022.12
+
