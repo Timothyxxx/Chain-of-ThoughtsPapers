@@ -87,54 +87,50 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 21. **Language Models are Multilingual Chain-of-Thought Reasoners.**
 
-    *Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, Peter Clark, Ashwin Kalyan* [[pdf](https://arxiv.org/abs/2209.14610)] 2022.9
-
-22. **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning.**
-
     *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei* [[pdf](https://arxiv.org/abs/2210.03057)] 2022.10
 
-23. **Automatic Chain of Thought Prompting in Large Language Models.**
+22. **Automatic Chain of Thought Prompting in Large Language Models.**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola* [[pdf](https://arxiv.org/abs/2210.03493)] 2022.10
 
 
-24. **Binding Language Models in Symbolic Languages.**
+23. **Binding Language Models in Symbolic Languages.**
 
     *Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* [[pdf](https://arxiv.org/abs/2210.02875)] 2022.10
     
-25. **ReAct: Synergizing Reasoning and Acting in Language Models.**
+24. **ReAct: Synergizing Reasoning and Acting in Language Models.**
 
     *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* [[pdf](https://arxiv.org/abs/2210.03629)] 2022.10
 
-26. **Ask Me Anything: A simple strategy for prompting language models.**
+25. **Ask Me Anything: A simple strategy for prompting language models.**
 
     *Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré* [[pdf](https://arxiv.org/abs/2210.02441)], [[code](https://github.com/HazyResearch/ama_prompting)] 2022.10
 
-27. **Language Models of Code are Few-Shot Commonsense Learners.**
+26. **Language Models of Code are Few-Shot Commonsense Learners.**
 
     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig* [[pdf](https://arxiv.org/abs/2210.07128)], [[code](https://github.com/madaan/cocogen)] 2022.10
     
-28. **Large Language Models Can Self-Improve.**
+27. **Large Language Models Can Self-Improve.**
 
     *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han* [[pdf](https://arxiv.org/abs/2210.11610)] 2022.10
     
-29. **Large Language Models are few(1)-shot Table Reasoners.**
+28. **Large Language Models are few(1)-shot Table Reasoners.**
 
     *Wenhu Chen* [[pdf](https://arxiv.org/abs/2210.06710)] 2022.10
 
-30. **PAL: Program-aided Language Models.**
+39. **PAL: Program-aided Language Models.**
 
     *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig* [[pdf](https://arxiv.org/abs/2211.10435)] 2022.11
     
-31. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
+30. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
 
     *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen* [[pdf](https://wenhuchen.github.io/images/Program_of_Thoughts.pdf)] 2022.11
     
-32. **Reasoning with Language Model Prompting: A Survey.**
+31. **Reasoning with Language Model Prompting: A Survey.**
 
     *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen* [[pdf](https://arxiv.org/abs/2212.09597)] 2022.12
     
-33. **Large Language Models are reasoners with Self-Verification.**
+32. **Large Language Models are reasoners with Self-Verification.**
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao* [[pdf](https://arxiv.org/abs/2212.09561)] [[code](https://github.com/WENGSYX/Self-Verification)] 2022.12
 
