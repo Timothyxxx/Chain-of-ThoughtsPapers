@@ -137,3 +137,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 33. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
 
     *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2301.13808)] 2023.02
+
+34. **Multimodal Chain-of-Thought Reasoning in Language Models**
+
+    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola* [[pdf](https://arxiv.org/abs/2302.00923)] 2023.02
