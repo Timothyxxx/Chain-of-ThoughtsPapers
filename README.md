@@ -134,3 +134,6 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao* [[pdf](https://arxiv.org/abs/2212.09561)] [[code](https://github.com/WENGSYX/Self-Verification)] 2022.12
 
+33. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
+
+    *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2301.13808)] 2023.02
