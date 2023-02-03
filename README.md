@@ -141,3 +141,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 34. **Multimodal Chain-of-Thought Reasoning in Language Models**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola* [[pdf](https://arxiv.org/abs/2302.00923)] 2023.02
+
+35. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
+
+    *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)] 2023.02
