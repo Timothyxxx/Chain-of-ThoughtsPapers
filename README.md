@@ -134,14 +134,18 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao* [[pdf](https://arxiv.org/abs/2212.09561)] [[code](https://github.com/WENGSYX/Self-Verification)] 2022.12
 
-33. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
+33. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
+
+    *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun* [[pdf](https://arxiv.org/abs/2212.10001)] [[code](https://github.com/sunlab-osu/Understanding-CoT)] 2022.12
+
+34. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
 
     *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2301.13808)] 2023.02
 
-34. **Multimodal Chain-of-Thought Reasoning in Language Models**
+35. **Multimodal Chain-of-Thought Reasoning in Language Models**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola* [[pdf](https://arxiv.org/abs/2302.00923)] 2023.02
 
-35. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
+36. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
 
     *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)] 2023.02
