@@ -130,22 +130,26 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
     *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen* [[pdf](https://arxiv.org/abs/2212.09597)] 2022.12
     
-32. **Large Language Models are reasoners with Self-Verification.**
+32. **Towards Reasoning in Large Language Models: A Survey.**
+
+    *Jie Huang, Kevin Chen-Chuan Chang* [[pdf](https://arxiv.org/abs/2212.10403)] 2022.12
+    
+33. **Large Language Models are reasoners with Self-Verification.**
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao* [[pdf](https://arxiv.org/abs/2212.09561)] [[code](https://github.com/WENGSYX/Self-Verification)] 2022.12
 
-33. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
+34. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
 
     *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun* [[pdf](https://arxiv.org/abs/2212.10001)] [[code](https://github.com/sunlab-osu/Understanding-CoT)] 2022.12
 
-34. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
+35. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
 
     *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2301.13808)] 2023.02
 
-35. **Multimodal Chain-of-Thought Reasoning in Language Models**
+36. **Multimodal Chain-of-Thought Reasoning in Language Models**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola* [[pdf](https://arxiv.org/abs/2302.00923)] 2023.02
 
-36. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
+37. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
 
     *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)] 2023.02
