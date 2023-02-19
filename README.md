@@ -124,7 +124,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
     
 30. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
 
-    *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen* [[pdf](https://wenhuchen.github.io/images/Program_of_Thoughts.pdf)] 2022.11
+    *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen* [[pdf](https://arxiv.org/abs/2211.12588)] 2022.11
     
 31. **Reasoning with Language Model Prompting: A Survey.**
 
