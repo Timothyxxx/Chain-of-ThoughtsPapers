@@ -160,3 +160,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 38. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
 
     *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)] 2023.02
+
+39. **Active Prompting with Chain-of-Thought for Large Language Models**
+
+    *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* [[pdf](https://arxiv.org/abs/2302.12246)] 2023.02
