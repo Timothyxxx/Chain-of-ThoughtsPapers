@@ -2,10 +2,6 @@
 ![](https://img.shields.io/github/last-commit/Timothyxxx/Chain-of-ThoughtsPapers?color=green)
 A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models".
 
-## (Ad) Open-source toolkit
-
-1. **Humanprompt** https://github.com/HKUNLP/HumanPrompt
-
 ## Papers
 
 1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** 
