@@ -160,3 +160,8 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 39. **Active Prompting with Chain-of-Thought for Large Language Models**
 
     *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* [[pdf](https://arxiv.org/abs/2302.12246)] 2023.02
+
+
+40. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**
+
+    *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang* [[pdf](https://arxiv.org/abs/2303.11381)] 2023.03
