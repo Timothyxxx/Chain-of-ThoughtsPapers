@@ -14,7 +14,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
    
 3. **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning.** 
 
-   *Eric Zelikman, Yuhuai Wu, Noah D. Goodman*  [[pdf](https://arxiv.org/abs/2203.14465)] 2022.3
+   *Eric Zelikman, Yuhuai Wu, Noah D. Goodman*  [[pdf](https://arxiv.org/abs/2203.14465)], [[code](https://github.com/ezelikman/STaR)] 2022.3
  
 4. **PaLM: Scaling Language Modeling with Pathways.** 
 
@@ -34,7 +34,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 8. **Large Language Models are Zero-Shot Reasoners.**
   
-   *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa* [[pdf](https://arxiv.org/abs/2205.11916)] 2022.5
+   *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa* [[pdf](https://arxiv.org/abs/2205.11916)], [[code](https://github.com/kojima-takeshi188/zero_shot_cot)] 2022.5
 
 9. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models.**
   
@@ -58,7 +58,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 14. **JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding.**
 
-    *Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang, Cong Liu, Ji-Rong Wen* [[pdf](https://arxiv.org/abs/2206.06315)] 2022.6
+    *Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang, Cong Liu, Ji-Rong Wen* [[pdf](https://arxiv.org/abs/2206.06315)], [[code](https://github.com/rucaibox/jiuzhang)] 2022.6
 
 15. **A Dataset and Benchmark for Automatically Answering and Generating Machine Learning Final Exams**
 
@@ -70,7 +70,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 17. **Language Model Cascades.**
 
-    *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton* [[pdf](https://arxiv.org/abs/2207.10342)] 2022.7
+    *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton* [[pdf](https://arxiv.org/abs/2207.10342)], [[code](https://github.com/google-research/cascades)] 2022.7
 
 18. **Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango.**
 
@@ -86,20 +86,20 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 21. **Language Models are Multilingual Chain-of-Thought Reasoners.**
 
-    *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei* [[pdf](https://arxiv.org/abs/2210.03057)] 2022.10
+    *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei* [[pdf](https://arxiv.org/abs/2210.03057)], [[code](https://github.com/google-research/url-nlp)] 2022.10
 
 22. **Automatic Chain of Thought Prompting in Large Language Models.**
 
-    *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola* [[pdf](https://arxiv.org/abs/2210.03493)] 2022.10
+    *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola* [[pdf](https://arxiv.org/abs/2210.03493)], [[code](https://github.com/amazon-science/auto-cot)] 2022.10
 
 
 23. **Binding Language Models in Symbolic Languages.**
 
-    *Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* [[pdf](https://arxiv.org/abs/2210.02875)] 2022.10
+    *Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* [[pdf](https://arxiv.org/abs/2210.02875)], [[code](https://github.com/hkunlp/binder)] 2022.10
     
 24. **ReAct: Synergizing Reasoning and Acting in Language Models.**
 
-    *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* [[pdf](https://arxiv.org/abs/2210.03629)] 2022.10
+    *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* [[pdf](https://arxiv.org/abs/2210.03629)], [[code](https://github.com/ysymyth/ReAct)] 2022.10
 
 25. **Ask Me Anything: A simple strategy for prompting language models.**
 
@@ -115,7 +115,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
     
 28. **Large Language Models are few(1)-shot Table Reasoners.**
 
-    *Wenhu Chen* [[pdf](https://arxiv.org/abs/2210.06710)] 2022.10
+    *Wenhu Chen* [[pdf](https://arxiv.org/abs/2210.06710)], [[code](https://github.com/wenhuchen/tablecot)] 2022.10
 
 39. **PAL: Program-aided Language Models.**
 
@@ -123,15 +123,15 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
     
 30. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.**
 
-    *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen* [[pdf](https://arxiv.org/abs/2211.12588)] 2022.11
+    *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen* [[pdf](https://arxiv.org/abs/2211.12588)], [[code](https://github.com/wenhuchen/program-of-thoughts)] 2022.11
     
 31. **Reasoning with Language Model Prompting: A Survey.**
 
-    *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen* [[pdf](https://arxiv.org/abs/2212.09597)] 2022.12
+    *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen* [[pdf](https://arxiv.org/abs/2212.09597)], [[code](https://github.com/zjunlp/Prompt4ReasoningPapers)] 2022.12
     
 32. **Towards Reasoning in Large Language Models: A Survey.**
 
-    *Jie Huang, Kevin Chen-Chuan Chang* [[pdf](https://arxiv.org/abs/2212.10403)] 2022.12
+    *Jie Huang, Kevin Chen-Chuan Chang* [[pdf](https://arxiv.org/abs/2212.10403)], [[code](https://github.com/jeffhj/lm-reasoning)] 2022.12
     
 33. **Large Language Models are reasoners with Self-Verification.**
 
@@ -139,7 +139,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 34. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
 
-    *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun* [[pdf](https://arxiv.org/abs/2212.10001)] [[code](https://github.com/sunlab-osu/Understanding-CoT)] 2022.12
+    *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun* [[pdf](https://arxiv.org/abs/2212.10001)], [[code](https://github.com/sunlab-osu/Understanding-CoT)] 2022.12
 
 35. **Large Language Models Are Reasoning Teachers.**
 
@@ -147,21 +147,21 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 36. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
 
-    *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2301.13808)] 2023.02
+    *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2301.13808)], [[code](https://github.com/itsnamgyu/reasoning-teacher)] 2023.02
 
 37. **Multimodal Chain-of-Thought Reasoning in Language Models**
 
-    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola* [[pdf](https://arxiv.org/abs/2302.00923)] 2023.02
+    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola* [[pdf](https://arxiv.org/abs/2302.00923)], [[code](https://github.com/amazon-science/mm-cot)] 2023.02
 
 38. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
 
-    *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)] 2023.02
+    *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)], [[code](https://github.com/google-research-datasets/gsm-ic)] 2023.02
 
 39. **Active Prompting with Chain-of-Thought for Large Language Models**
 
-    *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* [[pdf](https://arxiv.org/abs/2302.12246)] 2023.02
+    *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* [[pdf](https://arxiv.org/abs/2302.12246)], [[code](https://github.com/shizhediao/active-prompt)] 2023.02
 
 
 40. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**
 
-    *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang* [[pdf](https://arxiv.org/abs/2303.11381)] 2023.03
+    *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang* [[pdf](https://arxiv.org/abs/2303.11381)], [[code](https://github.com/microsoft/MM-REACT)] 2023.03
