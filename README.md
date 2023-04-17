@@ -139,7 +139,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 34. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
 
-    *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun* [[pdf](https://arxiv.org/abs/2212.10001)] [[code](https://github.com/sunlab-osu/Understanding-CoT)] 2022.12
+    *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun* [[pdf](https://arxiv.org/abs/2212.10001)], [[code](https://github.com/sunlab-osu/Understanding-CoT)] 2022.12
 
 35. **Large Language Models Are Reasoning Teachers.**
 
