@@ -145,23 +145,26 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
     *Namgyu Ho, Laura Schmid, Se-Young Yun* [[pdf](https://arxiv.org/abs/2212.10071)] 2022.12
 
-36. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
+36. **Faithful Chain-of-Thought Reasoning**
+
+    *Qing Lyu\*, Shreya Havaldar\*, Adam Stein\*, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki, Chris Callison-Burch*  [[pdf](https://arxiv.org/abs/2301.13379)], [[code](https://github.com/veronica320/Faithful-COT)] 2023.01
+
+37. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
 
     *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2301.13808)], [[code](https://github.com/itsnamgyu/reasoning-teacher)] 2023.02
 
-37. **Multimodal Chain-of-Thought Reasoning in Language Models**
+38. **Multimodal Chain-of-Thought Reasoning in Language Models**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola* [[pdf](https://arxiv.org/abs/2302.00923)], [[code](https://github.com/amazon-science/mm-cot)] 2023.02
 
-38. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
+39. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
 
     *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)], [[code](https://github.com/google-research-datasets/gsm-ic)] 2023.02
 
-39. **Active Prompting with Chain-of-Thought for Large Language Models**
+40. **Active Prompting with Chain-of-Thought for Large Language Models**
 
     *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* [[pdf](https://arxiv.org/abs/2302.12246)], [[code](https://github.com/shizhediao/active-prompt)] 2023.02
 
-
-40. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**
+41. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**
 
     *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang* [[pdf](https://arxiv.org/abs/2303.11381)], [[code](https://github.com/microsoft/MM-REACT)] 2023.03
