@@ -168,3 +168,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 41. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**
 
     *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang* [[pdf](https://arxiv.org/abs/2303.11381)], [[code](https://github.com/microsoft/MM-REACT)] 2023.03
+    
+42. **Reasoning Implicit Sentiment with Chain-of-Thought Prompting**
+
+    *Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, Tat-Seng Chua* [[pdf](https://arxiv.org/abs/2305.11255)], [[code](https://github.com/scofield7419/THOR-ISA)] 2023.05
