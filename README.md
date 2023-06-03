@@ -172,3 +172,8 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 42. **Reasoning Implicit Sentiment with Chain-of-Thought Prompting**
 
     *Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, Tat-Seng Chua* [[pdf](https://arxiv.org/abs/2305.11255)], [[code](https://github.com/scofield7419/THOR-ISA)] 2023.05
+    
+43. **Chain Of Thought Prompting Under Streaming Batch: A Case Study**
+
+    *Yuxin Tang* [[pdf](https://arxiv.org/abs/2306.00550)] 2023.06    
+
