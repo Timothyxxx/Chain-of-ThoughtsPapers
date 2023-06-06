@@ -143,7 +143,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 35. **Large Language Models Are Reasoning Teachers.**
 
-    *Namgyu Ho, Laura Schmid, Se-Young Yun* [[pdf](https://arxiv.org/abs/2212.10071)] 2022.12
+    *Namgyu Ho, Laura Schmid, Se-Young Yun* [[pdf](https://arxiv.org/abs/2212.10071)] [[code](https://github.com/itsnamgyu/reasoning-teacher)] 2022.12
 
 36. **Faithful Chain-of-Thought Reasoning**
 
