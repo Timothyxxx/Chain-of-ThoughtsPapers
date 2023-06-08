@@ -179,4 +179,8 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 44. **Tab-CoT: Zero-shot Tabular Chain of Thought**
  
-    *Ziqi Jin and Wei Lu* [[pdf](https://arxiv.org/abs/2305.17812], [[code](https://github.com/Xalp/Tab-CoT)] 2023.06   
+    *Ziqi Jin and Wei Lu* [[pdf](https://arxiv.org/abs/2305.17812], [[code](https://github.com/Xalp/Tab-CoT)] 2023.06
+
+45. **Reasoning with Language Model is Planning with World Model**
+
+    *Shibo Hao\*, Yi Gu\*, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu* [[pdf](https://arxiv.org/abs/2305.14992)], [[code](https://github.com/Ber666/RAP)] 2023.05
