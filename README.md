@@ -179,4 +179,4 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 44. **Tab-CoT: Zero-shot Tabular Chain of Thought**
  
-    *Ziqi Jin and Wei Lu* [[pdf](https://arxiv.org/abs/2305.17812], [[code](https://github.com/Xalp/Tab-CoT)] 2023.06   
+    *Ziqi Jin and Wei Lu* [[pdf](https://arxiv.org/abs/2305.17812)], [[code](https://github.com/Xalp/Tab-CoT)] 2023.06   
