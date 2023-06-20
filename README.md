@@ -192,3 +192,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 47. **Tab-CoT: Zero-shot Tabular Chain of Thought**
  
     *Ziqi Jin and Wei Lu* [[pdf](https://arxiv.org/abs/2305.17812)], [[code](https://github.com/Xalp/Tab-CoT)] 2023.06   
+
+48. **Recursion of Thought: A Divide and Conquer Approach to Multi-Context Reasoning with Language Models**
+
+    *Soochan Lee and Gunehee Kim* [[pdf](https://arxiv.org/abs/2306.06891)], [[code](https://github.com/soochan-lee/RoT)], [[poster](https://soochanlee.com/img/rot/rot_poster.pdf)]
