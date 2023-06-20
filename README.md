@@ -125,62 +125,78 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
     *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen* [[pdf](https://arxiv.org/abs/2211.12588)], [[code](https://github.com/wenhuchen/program-of-thoughts)] 2022.11
     
-31. **Reasoning with Language Model Prompting: A Survey.**
+31. **Self-Prompting Large Language Models for Zero-Shot Open-Domain QA.**
+
+    *Junlong Li, Zhuosheng Zhang, Hai Zhao* [[pdf](https://arxiv.org/abs/2212.08635)] 2022.12
+    
+32. **Reasoning with Language Model Prompting: A Survey.**
 
     *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen* [[pdf](https://arxiv.org/abs/2212.09597)], [[code](https://github.com/zjunlp/Prompt4ReasoningPapers)] 2022.12
     
-32. **Towards Reasoning in Large Language Models: A Survey.**
+33. **Towards Reasoning in Large Language Models: A Survey.**
 
     *Jie Huang, Kevin Chen-Chuan Chang* [[pdf](https://arxiv.org/abs/2212.10403)], [[code](https://github.com/jeffhj/lm-reasoning)] 2022.12
     
-33. **Large Language Models are reasoners with Self-Verification.**
+34. **Large Language Models are reasoners with Self-Verification.**
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao* [[pdf](https://arxiv.org/abs/2212.09561)] [[code](https://github.com/WENGSYX/Self-Verification)] 2022.12
 
-34. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
+35. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
 
     *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun* [[pdf](https://arxiv.org/abs/2212.10001)], [[code](https://github.com/sunlab-osu/Understanding-CoT)] 2022.12
 
-35. **Large Language Models Are Reasoning Teachers.**
+36. **Large Language Models Are Reasoning Teachers.**
 
     *Namgyu Ho, Laura Schmid, Se-Young Yun* [[pdf](https://arxiv.org/abs/2212.10071)] [[code](https://github.com/itsnamgyu/reasoning-teacher)] 2022.12
 
-36. **Faithful Chain-of-Thought Reasoning**
+37. **Faithful Chain-of-Thought Reasoning**
 
     *Qing Lyu\*, Shreya Havaldar\*, Adam Stein\*, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki, Chris Callison-Burch*  [[pdf](https://arxiv.org/abs/2301.13379)], [[code](https://github.com/veronica320/Faithful-COT)] 2023.01
 
-37. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
+38. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**
 
     *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2301.13808)], [[code](https://github.com/itsnamgyu/reasoning-teacher)] 2023.02
 
-38. **Multimodal Chain-of-Thought Reasoning in Language Models**
+39. **Multimodal Chain-of-Thought Reasoning in Language Models**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola* [[pdf](https://arxiv.org/abs/2302.00923)], [[code](https://github.com/amazon-science/mm-cot)] 2023.02
 
-39. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
+40. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
 
     *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)], [[code](https://github.com/google-research-datasets/gsm-ic)] 2023.02
 
-40. **Active Prompting with Chain-of-Thought for Large Language Models**
+41. **Active Prompting with Chain-of-Thought for Large Language Models**
 
     *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* [[pdf](https://arxiv.org/abs/2302.12246)], [[code](https://github.com/shizhediao/active-prompt)] 2023.02
 
-41. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**
+42. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**
 
     *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang* [[pdf](https://arxiv.org/abs/2303.11381)], [[code](https://github.com/microsoft/MM-REACT)] 2023.03
     
-42. **Reasoning Implicit Sentiment with Chain-of-Thought Prompting**
+43. **Exploring Human-Like Translation Strategy with Large Language Models**
+
+    *Zhiwei He, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang* [[pdf](https://arxiv.org/abs/2305.04118)], [[code](https://github.com/zwhe99/MAPS-mt)] 2023.05
+
+44. **Reasoning Implicit Sentiment with Chain-of-Thought Prompting**
 
     *Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, Tat-Seng Chua* [[pdf](https://arxiv.org/abs/2305.11255)], [[code](https://github.com/scofield7419/THOR-ISA)] 2023.05
+
+45. **Element-aware Summarization with Large Language Models: Expert-aligned Evaluation and Chain-of-Thought Method**
+
+    *Yiming Wang, Zhuosheng Zhang, Rui Wang* [[pdf](https://arxiv.org/abs/2305.13412)], [[code](https://github.com/Alsace08/SumCoT)] 2023.05
     
-43. **Chain Of Thought Prompting Under Streaming Batch: A Case Study**
+46. **Chain Of Thought Prompting Under Streaming Batch: A Case Study**
 
     *Yuxin Tang* [[pdf](https://arxiv.org/abs/2306.00550)] 2023.06    
 
-44. **Tab-CoT: Zero-shot Tabular Chain of Thought**
+47. **Tab-CoT: Zero-shot Tabular Chain of Thought**
  
     *Ziqi Jin and Wei Lu* [[pdf](https://arxiv.org/abs/2305.17812], [[code](https://github.com/Xalp/Tab-CoT)] 2023.06
 
-45. **Reasoning with Language Model is Planning with World Model**
+48. **Reasoning with Language Model is Planning with World Model**
 
     *Shibo Hao\*, Yi Gu\*, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu* [[pdf](https://arxiv.org/abs/2305.14992)], [[code](https://github.com/Ber666/RAP)] 2023.05
+
+49. **Recursion of Thought: A Divide and Conquer Approach to Multi-Context Reasoning with Language Models**
+
+    *Soochan Lee and Gunehee Kim* [[pdf](https://arxiv.org/abs/2306.06891)], [[code](https://github.com/soochan-lee/RoT)], [[poster](https://soochanlee.com/img/rot/rot_poster.pdf)]
