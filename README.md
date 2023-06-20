@@ -200,3 +200,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 49. **Recursion of Thought: A Divide and Conquer Approach to Multi-Context Reasoning with Language Models**
 
     *Soochan Lee and Gunehee Kim* [[pdf](https://arxiv.org/abs/2306.06891)], [[code](https://github.com/soochan-lee/RoT)], [[poster](https://soochanlee.com/img/rot/rot_poster.pdf)]
+
+50. **The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning**
+
+    *Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye, Jamin Shin, Minjoon Seo* [[pdf](https://arxiv.org/abs/2305.14045)]
