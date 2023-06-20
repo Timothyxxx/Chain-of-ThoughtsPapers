@@ -95,7 +95,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 23. **Binding Language Models in Symbolic Languages.**
 
-    *Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* [[pdf](https://arxiv.org/abs/2210.02875)], [[code](https://github.com/hkunlp/binder)] 2022.10
+    *Zhoujun Cheng*, Tianbao Xie*, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* [[pdf](https://arxiv.org/abs/2210.02875)], [[code](https://github.com/hkunlp/binder)] 2022.10
     
 24. **ReAct: Synergizing Reasoning and Acting in Language Models.**
 
@@ -191,7 +191,7 @@ A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Langu
 
 47. **Tab-CoT: Zero-shot Tabular Chain of Thought**
  
-    *Ziqi Jin and Wei Lu* [[pdf](https://arxiv.org/abs/2305.17812], [[code](https://github.com/Xalp/Tab-CoT)] 2023.06
+    *Ziqi Jin and Wei Lu* [[pdf](https://arxiv.org/abs/2305.17812)], [[code](https://github.com/Xalp/Tab-CoT)] 2023.06
 
 48. **Reasoning with Language Model is Planning with World Model**
 
