@@ -2,6 +2,8 @@
 ![](https://img.shields.io/github/last-commit/Timothyxxx/Chain-of-ThoughtsPapers?color=green)
 A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models".
 
+Check **[Environment Interactive LLMs](https://github.com/Timothyxxx/EnvInteractiveLMPapers)** for the newest good direction we are doing!
+
 ## Papers
 
 1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** 
