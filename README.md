@@ -206,3 +206,7 @@ Check **[Tool use LLMs](https://github.com/xlang-ai/llm-tool-use)** and **[Envir
 50. **The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning**
 
     *Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye, Jamin Shin, Minjoon Seo* [[pdf](https://arxiv.org/abs/2305.14045)]
+
+51. **Cumulative Reasoning with Large Language Models**
+
+    *Yifan Zhang\*, Jinqqin Yang\*, Yang Yuan, Andrew Chi-Chih Yao* [[pdf](https://arxiv.org/abs/2308.04371)], [[code](https://github.com/iiis-ai/cumulative-reasoning)] 2023.08
